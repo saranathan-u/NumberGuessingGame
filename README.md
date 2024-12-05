@@ -8,6 +8,7 @@ Before going through the steps, here’s an outline of the general rules of the 
 </ul>
 
 ## Sterp 1 : Download the game using this command.
+             git clone https://github.com/saranathan-u/NumberGuessingGame.git
 
 ## Step 2: Calling Class & Main Function
 First, we’re going to call a class GuessingGame and add empty main function as follows:
